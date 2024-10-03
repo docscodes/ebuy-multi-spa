@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@ebuy-multi-spa/mocks": ["libs/mocks/src/index.ts"],
       "@ebuy-multi-spa/ui": ["libs/ui/src/index.ts"]
     }
   },
